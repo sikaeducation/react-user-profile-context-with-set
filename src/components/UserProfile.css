@@ -1,0 +1,22 @@
+.UserProfile {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.UserProfile img {
+  width: 70px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.UserProfile p {
+  font-size: 12px;
+}
+
+.UserProfile button {
+  border: none;
+  width: 100%;
+  padding: 4px 8px;
+  background-color: hsl(30, 30%, 30%);
+  color: hsl(30, 30%, 80%);
+}

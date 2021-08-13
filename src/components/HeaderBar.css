@@ -1,0 +1,8 @@
+.HeaderBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background-color: hsl(30, 30%, 90%);
+  color: hsl(30, 30%, 20%);
+}

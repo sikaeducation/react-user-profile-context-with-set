@@ -1,0 +1,15 @@
+.NavBar ul {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0;
+  list-style: none;
+}
+
+.NavBar li {
+  margin-right: 24px;
+}
+
+.NavBar a {
+  color: inherit;
+  text-decoration: none;
+}
